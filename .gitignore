@@ -1,0 +1,3 @@
+*.csv
+.geo_cache/
+.DS_Store
